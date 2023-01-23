@@ -32,7 +32,7 @@ function addTransaction(e) {
       text: text.value,
       amount: +amount.value
     };
-    
+  // Pull request for ai academy  
     // AI Academy activity
 
     transactions.push(transaction);
