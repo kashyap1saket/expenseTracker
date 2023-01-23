@@ -32,6 +32,8 @@ function addTransaction(e) {
       text: text.value,
       amount: +amount.value
     };
+    
+    // AI Academy activity
 
     transactions.push(transaction);
 
